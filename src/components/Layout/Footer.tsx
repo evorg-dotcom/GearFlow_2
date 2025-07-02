@@ -188,7 +188,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-slate-400 text-sm mb-4 md:mb-0">
             <a href="https://bolt.new" target="_blank" rel="noopener noreferrer">
-              <img className="h-20 mb-2" src="/black_circle_360x360.png" alt="Powered by Bolt"></img>
+              <img className="h-20 mb-2" src="/evorg-dotcom/GearFlow_2.git/black_circle_360x360.png" alt="Powered by Bolt" />
             </a>
                 Bolt Powered Project in conjunction with Supabase              
           </div>
