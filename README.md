@@ -12,7 +12,7 @@ GearFlo is a comprehensive automotive diagnostic platform that combines traditio
 - **Diagnostic History**: Track and manage all your diagnostic sessions
 - **Community Hub**: Share experiences and get help from other automotive enthusiasts
 
-### AI-Powered Analysis (Beta)
+### AI-Powered Analysis (Coming Soon)
 - **Gemini AI Integration**: Advanced AI analysis using Google's Gemini 1.5 Flash model
 - **Intelligent Diagnostics**: AI-powered insights based on vehicle symptoms and data
 - **Risk Assessment**: Safety evaluations and driving recommendations
